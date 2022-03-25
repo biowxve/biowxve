@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @biowxve
-- 👀 I’m interested in integrating biology with technology
-- 🌱 I’m currently learning Java & Python
-- 💞️ Not looking for any collaborations at the moment 
+- 👋 Hi, I’m @biowxve!
+- 👀 I’m interested in integrating biology with technology.
+- 🌱 I’m currently learning Java & Python.
+- 💞️ Not looking for any collaborations at the moment.
 - 📫 How to reach me - sbsnkrn@gmail.com
 
 <!---
